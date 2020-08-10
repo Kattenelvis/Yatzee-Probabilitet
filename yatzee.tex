@@ -1,0 +1,42 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{amsmath}
+\usepackage{ dsfont }
+\begin{document}
+
+\section{Abstract}
+Vad är den mest optimala strategin för yatzee?
+
+\section{Regler och Definitioner}
+\input{reglerna.tex}
+
+
+\section{Simpelt Spel}
+Vi börjar med att simulera ett två tärnings spel
+
+\begin{equation}
+    \Omega=\{t_1,t_2:t_i\in\{1,...,6\}\}
+\end{equation}
+
+Funktionen $P:T_i\times T_j \rightarrow \mathds{R}$ är probabiliteten att man går från $T_i$ till $T_j$
+
+
+Vi konstruerar en transitions matris för markov kedjan
+
+$$
+\begin{pmatrix}
+    P(\{1,1\},\{1,1\})&...&P(\{1,1\},\{1,6\})\\
+    :&...&5
+\end{pmatrix}
+$$
+
+Vad är den bästa strategin om man får $\{1,1\}$?
+Ta par: 2 poäng men förlorar möjligheten att få 4,6,8,10 och 12 poäng
+Ta ettor: 2 poäng och förlorar inget
+
+
+
+
+
+
+
+\end{document}

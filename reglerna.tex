@@ -1,0 +1,38 @@
+
+
+Det finns fem tärningar t med värdern mellan 1 till 6
+
+\begin{equation}
+    \Omega=\{t_1,...,t_5:t_i\in\{1,...,6\}\}
+\end{equation}
+
+Ett sett av tärningskastningar kommer kallas för $T$
+
+Reglerna går ut så här:
+\begin{itemize}
+    \item Första rundan kastar man alla fem tärningar.
+    \item Sedan får man själv välja vilka tärningar som ska kastas. Man får två sådana försök på sig.
+    \item Det finns då en hel lista av olika kategorier spelaren kan sätta in på resultaten. Ett exempel kanske är $d_1=2, d_2=2$, 
+då kan man antingen välja att sätta in det i "par" kategorin eller i "två" kategorin.
+\end{itemize}
+
+Listan på alla kategorier k och deras accepterade konfigurationer:
+\begin{itemize}
+    \item $K_{N,n} \rightarrow n=t_i=t_{i+1}...=t_{i+N}$
+    \item $K_{N} \rightarrow t_i=t_{i+1}...=t_{i+N}$
+    \item $K_{lagrestege} \rightarrow t_0>t_1>...t_{N-1}$
+    \item $K_{hogrestege} \rightarrow t_1>t_2>...t_{N}$
+\end{itemize}
+
+$K_3$ är ett exempel på "triss", d.v.s man får tre av samma figur. $K_{4,1}$ betyder att man har fått 4 stycken tärningar med 1.
+
+Poängen man får för varje konfiguration förutom yatzee ($|K_{N,n}|=N)$ är 
+
+\begin{equation}
+    \sum_{t_i\in K}t_i 
+\end{equation}
+
+
+
+
+
