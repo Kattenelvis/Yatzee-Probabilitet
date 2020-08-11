@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1597099733 "c:/Users/Emil/Documents/Programming Projects/2020/Augusti/yatzee/yatzee.tex" "c:/Users/Emil/Documents/Programming Projects/2020/Augusti/yatzee/yatzee.pdf" "yatzee" 1597099733
+["pdflatex"] 1597139159 "c:/Users/Emil/Documents/Programming Projects/2020/Augusti/yatzee/yatzee.tex" "c:/Users/Emil/Documents/Programming Projects/2020/Augusti/yatzee/yatzee.pdf" "yatzee" 1597139160
   "C:/Users/Emil/AppData/Local/MiKTeX/2.9/miktex/data/le/pdftex/pdflatex.fmt" 1584698703 4273012 597f7f70ff1c5f6dfa357c5103458464 ""
   "C:/Users/Emil/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map" 1596798289 80612 31eb9e1204543b3f116ab9f0963da30c ""
   "C:/Users/Emil/AppData/Local/Programs/MiKTeX 2.9/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233955448 1004 54797486969f23fa377b128694d548df ""
@@ -38,14 +38,14 @@
   "C:/Users/Emil/AppData/Local/Programs/MiKTeX 2.9/tex/latex/base/size12.clo" 1570127258 8406 9c942fcfb21ffa8e69675415d5a2896e ""
   "C:/Users/Emil/AppData/Local/Programs/MiKTeX 2.9/tex/latex/doublestroke/dsfont.sty" 1030470372 230 7bc61880b468bfd38aedc173be7c3486 ""
   "C:/Users/Emil/AppData/Local/Programs/MiKTeX 2.9/tex/latex/doublestroke/udsrom.fd" 1030470372 211 101be7da01334f0b54b41fbe634f1ce4 ""
-  "c:/Users/Emil/Documents/Programming Projects/2020/Augusti/yatzee/yatzee.aux" 1597099733 309 b16cb9cbfd31134c4d28fbfad0a6a5cc ""
-  "c:/Users/Emil/Documents/Programming Projects/2020/Augusti/yatzee/yatzee.tex" 1597099732 1132 18d1d335bc4aab330a3666b8b5ffd9fb ""
+  "c:/Users/Emil/Documents/Programming Projects/2020/Augusti/yatzee/yatzee.aux" 1597139159 309 b16cb9cbfd31134c4d28fbfad0a6a5cc ""
+  "c:/Users/Emil/Documents/Programming Projects/2020/Augusti/yatzee/yatzee.tex" 1597139155 1133 e5e09b046346dbb87671c32712db0c25 ""
   "reglerna.tex" 1596794277 1284 c26985c1f76c60b6ffebabb15784764b ""
-  "yatzee.aux" 1597099733 309 b16cb9cbfd31134c4d28fbfad0a6a5cc "pdflatex"
-  "yatzee.tex" 1597099732 1132 18d1d335bc4aab330a3666b8b5ffd9fb ""
+  "yatzee.aux" 1597139159 309 b16cb9cbfd31134c4d28fbfad0a6a5cc "pdflatex"
+  "yatzee.tex" 1597139155 1133 e5e09b046346dbb87671c32712db0c25 ""
   (generated)
   "c:/Users/Emil/Documents/Programming Projects/2020/Augusti/yatzee/yatzee.pdf"
-  "yatzee.log"
-  "yatzee.aux"
   "yatzee.pdf"
+  "yatzee.aux"
+  "yatzee.log"
   "c:/Users/Emil/Documents/Programming Projects/2020/Augusti/yatzee/yatzee.log"
